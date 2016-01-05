@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>dict_nombres_en_lettres-ts</name>
+  <description>dict_nombres_en_lettres</description>
+  <version></version>
+  <vendor></vendor>
+  <types>
+    <typeDescription>
+      <name>com.ibm.ICA.general.Dict_nombres_en_lettres</name>
+      <description>dict_nombres_en_lettres</description>
+      <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>valeur</name>
+          <description></description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        </features>
+    </typeDescription>
+    </types>
+</typeSystemDescription>

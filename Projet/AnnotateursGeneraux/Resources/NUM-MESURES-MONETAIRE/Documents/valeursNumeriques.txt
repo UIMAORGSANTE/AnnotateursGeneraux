@@ -1,0 +1,57 @@
++++ simple num values +++
+0
+
+1
+
+10
+
+100
+
+1000
+
+sept
+
+trente-quatre
+
+cent quarante
+
+mille cinq cent quarante-trois
+
+
++++ with thousands separator +++
+8,000
+
+8 000
+
+200.345 
+
+200,345
+
+2 567
+
+200.345.678
+
+200 345 678
+
++++ with decimal part +++
+2,35
+
+2.30
+
+20.123,67
+
+3.200.000.000,98
+
+5 2/3
+
+5 1/4
+
+3.600 1/3
+
+
++++ should not trigger decimal +++
+5:46
+200 10 
+
+
+

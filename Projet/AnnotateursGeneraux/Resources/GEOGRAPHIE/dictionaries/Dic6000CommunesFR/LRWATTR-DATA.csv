@@ -1,0 +1,5 @@
+"COLUMNNAME","COLUMNTITLE","COLUMNTYPE","MATCH","POSSIBLEVALUES","MAXLENGTH","GLOSS","FIELD","DEFAULT","DEFAULTIFMISSING","VALIDATE","UIMAFEATURE","UIMADESCRIPTION","COLUMNORDER","COLUMNWIDTH"
+"COL1","Dic6000CommunesFR","NormalForm","false","","30000","CutPasteGloss","Lemma","1000","","notnull","","","1","130",
+"COL2","Part of Speech","Keyword","false","X=Unknown,P=Pronoun,V=Verb,N=Noun,J=Adjective,A=Adverb,R=Adposition,I=Interjection,C=Conjunction,D=Determiner,Q=Quantifier","255","FeatureSetGloss","WordClass","N","","","","","2","130",
+"COL3","Departement","String","false","","40","user.Dic6000CommunesFRGloss","Departement","","","","departement","","3","100",
+"COL4","Region","String","false","","60","user.Dic6000CommunesFRGloss","Region","","","","region","","4","100",

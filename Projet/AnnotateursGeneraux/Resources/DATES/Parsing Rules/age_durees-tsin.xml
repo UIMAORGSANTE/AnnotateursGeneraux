@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>age_durees-ts</name>
+  <description></description>
+  <version></version>
+  <vendor></vendor>
+  <types>
+    <typeDescription>
+      <name>com.ibm.ICA.general.Dict_epoques_vie</name>
+      <description>Required by rule</description>
+      <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>equiv_age</name>
+          <description></description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        </features>
+    </typeDescription>
+    <typeDescription>
+      <name>com.ibm.ICA.general.Dict_temps_unités</name>
+      <description>Required by rule</description>
+      <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>lemma</name>
+          <description></description>
+          <rangeTypeName>uima.tt.Lemma</rangeTypeName>
+        </featureDescription>
+        </features>
+    </typeDescription>
+    <typeDescription>
+      <name>com.ibm.ICA.general.Dict_trigger_age</name>
+      <description>Required by rule</description>
+      <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+    </typeDescription>
+    <typeDescription>
+      <name>com.ibm.ICA.general.Pot_partie_décimale</name>
+      <description>Required by rule</description>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>value</name>
+          <description></description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        </features>
+    </typeDescription>
+    <typeDescription>
+      <name>com.ibm.ICA.general.ValeurNumériqueFin</name>
+      <description>Required by rule</description>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>valeurFinale</name>
+          <description></description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        </features>
+    </typeDescription>
+    <typeDescription>
+      <name>uima.tt.TokenAnnotation</name>
+      <description>Required by rule</description>
+      <supertypeName>uima.tt.TokenLikeAnnotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>lemma</name>
+          <description></description>
+          <rangeTypeName>uima.tt.Lemma</rangeTypeName>
+        </featureDescription>
+        </features>
+    </typeDescription>
+    </types>
+</typeSystemDescription>

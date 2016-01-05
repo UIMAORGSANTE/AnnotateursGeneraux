@@ -1,0 +1,2 @@
+"TABLE_NAME","TABLE_TYPE","BUILD_TYPE","GLOSS","UIMA_TYPENAME","UIMA_TYPEDESC","UIMA_SUPERTYPE","DISPLAY_NAME","SORTBY"
+"DATA","SurfaceformList","","MidGloss","com.ibm.ICA.general.Dic6000CommunesFR","Dic6000CommunesFR","uima.tt.DictionaryEntryAnnotation","Dic6000CommunesFR","COL1,COL2,COL3,COL4"

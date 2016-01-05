@@ -1,0 +1,265 @@
+"COL1","COL2","COL3","COL4"
+"Paris	1000","N","Paris","Île-de-France"
+"Marseille	1000","N","Bouches-du-Rhône","Provence-Alpes-Côte d'Azur"
+"Lyon	1000","N","Métropole de Lyon","Rhône-Alpes"
+"Toulouse	1000","N","Haute-Garonne","Midi-Pyrénées"
+"Nice	1000","N","Alpes-Maritimes","Provence-Alpes-Côte d'Azur"
+"Nantes	1000","N","Loire-Atlantique","Pays de la Loire"
+"Strasbourg	1000","N","Bas-Rhin","Alsace"
+"Montpellier	1000","N","Hérault","Languedoc-Roussillon"
+"Bordeaux	1000","N","Gironde","Aquitaine"
+"Lille	1000","N","Nord","Nord-Pas-de-Calais"
+"Rennes	1000","N","Ille-et-Vilaine","Bretagne"
+"Reims	1000","N","Marne","Champagne-Ardenne"
+"Le Havre	1000Havre	1000","N","Seine-Maritime","Haute-Normandie"
+"Saint-Étienne	1000","N","Loire","Rhône-Alpes"
+"Toulon	1000","N","Var","Provence-Alpes-Côte d'Azur"
+"Grenoble	1000","N","Isère","Rhône-Alpes"
+"Dijon	1000","N","Côte-d'Or","Bourgogne"
+"Angers	1000","N","Maine-et-Loire","Pays de la Loire"
+"Nîmes	1000","N","Gard","Languedoc-Roussillon"
+"Villeurbanne	1000","N","Rhône","Rhône-Alpes"
+"Saint-Denis	1000","N","La Réunion","La Réunion"
+"Le Mans	1000Mans	1000","N","Sarthe","Pays de la Loire"
+"Clermont-Ferrand	1000","N","Puy-de-Dôme","Auvergne"
+"Aix-en-Provence	1000","N","Bouches-du-Rhône","Provence-Alpes-Côte d'Azur"
+"Brest	1000","N","Finistère","Bretagne"
+"Limoges	1000","N","Haute-Vienne","Limousin"
+"Tours	1000","N","Indre-et-Loire","Centre-Val de Loire"
+"Amiens	1000","N","Somme","Picardie"
+"Perpignan	1000","N","Pyrénées-Orientales","Languedoc-Roussillon"
+"Metz	1000","N","Moselle","Lorraine"
+"Boulogne-Billancourt	1000","N","Hauts-de-Seine","Île-de-France"
+"Besançon	1000","N","Doubs","Franche-Comté"
+"Orléans	1000","N","Loiret","Centre-Val de Loire"
+"Rouen	1000","N","Seine-Maritime","Haute-Normandie"
+"Mulhouse	1000","N","Haut-Rhin","Alsace"
+"Caen	1000","N","Calvados","Basse-Normandie"
+"Saint-Denis	1000","N","Seine-Saint-Denis","Île-de-France"
+"Nancy	1000","N","Meurthe-et-Moselle","Lorraine"
+"Argenteuil	1000","N","Val-d'Oise","Île-de-France"
+"Saint-Paul	1000","N","La Réunion","La Réunion"
+"Montreuil	1000","N","Seine-Saint-Denis","Île-de-France"
+"Roubaix	1000","N","Nord","Nord-Pas-de-Calais"
+"Tourcoing	1000","N","Nord","Nord-Pas-de-Calais"
+"Dunkerque	1000","N","Nord","Nord-Pas-de-Calais"
+"Nanterre	1000","N","Hauts-de-Seine","Île-de-France"
+"Créteil	1000","N","Val-de-Marne","Île-de-France"
+"Avignon	1000","N","Vaucluse","Provence-Alpes-Côte d'Azur"
+"Vitry-sur-Seine	1000","N","Val-de-Marne","Île-de-France"
+"Poitiers	1000","N","Vienne","Poitou-Charentes"
+"Courbevoie	1000","N","Hauts-de-Seine","Île-de-France"
+"Fort-de-France	1000","N","Martinique","Martinique"
+"Versailles	1000","N","Yvelines","Île-de-France"
+"Colombes	1000","N","Hauts-de-Seine","Île-de-France"
+"Asnières-sur-Seine	1000","N","Hauts-de-Seine","Île-de-France"
+"Aulnay-sous-Bois	1000","N","Seine-Saint-Denis","Île-de-France"
+"Saint-Pierre	1000","N","La Réunion","La Réunion"
+"Rueil-Malmaison	1000","N","Hauts-de-Seine","Île-de-France"
+"Pau	1000","N","Pyrénées-Atlantiques","Aquitaine"
+"Aubervilliers	1000","N","Seine-Saint-Denis","Île-de-France"
+"Champigny-sur-Marne	1000","N","Val-de-Marne","Île-de-France"
+"Le Tampon	1000Tampon	1000","N","La Réunion","La Réunion"
+"Antibes	1000","N","Alpes-Maritimes","Provence-Alpes-Côte d'Azur"
+"Saint-Maur-des-Fossés	1000","N","Val-de-Marne","Île-de-France"
+"La Rochelle	1000","N","Charente-Maritime","Poitou-Charentes"
+"Cannes	1000","N","Alpes-Maritimes","Provence-Alpes-Côte d'Azur"
+"Béziers	1000","N","Hérault","Languedoc-Roussillon"
+"Calais	1000","N","Pas-de-Calais","Nord-Pas-de-Calais"
+"Saint-Nazaire	1000","N","Loire-Atlantique","Pays de la Loire"
+"Colmar	1000","N","Haut-Rhin","Alsace"
+"Drancy	1000","N","Seine-Saint-Denis","Île-de-France"
+"Bourges	1000","N","Cher","Centre-Val de Loire"
+"Mérignac	1000","N","Gironde","Aquitaine"
+"Ajaccio	1000","N","Corse-du-Sud","Corse"
+"Issy-les-Moulineaux	1000","N","Hauts-de-Seine","Île-de-France"
+"Levallois-Perret	1000","N","Hauts-de-Seine","Île-de-France"
+"La Seyne-sur-Mer	1000","N","Var","Provence-Alpes-Côte d'Azur"
+"Quimper	1000","N","Finistère","Bretagne"
+"Noisy-le-Grand	1000","N","Seine-Saint-Denis","Île-de-France"
+"Valence	1000","N","Drôme","Rhône-Alpes"
+"Villeneuve-d'Ascq	1000","N","Nord","Nord-Pas-de-Calais"
+"Neuilly-sur-Seine	1000","N","Hauts-de-Seine","Île-de-France"
+"Antony	1000","N","Hauts-de-Seine","Île-de-France"
+"Vénissieux	1000","N","Rhône","Rhône-Alpes"
+"Cergy	1000","N","Val-d'Oise","Île-de-France"
+"Troyes	1000","N","Aube","Champagne-Ardenne"
+"Clichy	1000","N","Hauts-de-Seine","Île-de-France"
+"Pessac	1000","N","Gironde","Aquitaine"
+"Les Abymes	1000Abymes	1000","N","Guadeloupe","Guadeloupe"
+"Ivry-sur-Seine	1000","N","Val-de-Marne","Île-de-France"
+"Chambéry	1000","N","Savoie","Rhône-Alpes"
+"Lorient	1000","N","Morbihan","Bretagne"
+"Niort	1000","N","Deux-Sèvres","Poitou-Charentes"
+"Sarcelles	1000","N","Val-d'Oise","Île-de-France"
+"Montauban	1000","N","Tarn-et-Garonne","Midi-Pyrénées"
+"Villejuif	1000","N","Val-de-Marne","Île-de-France"
+"Saint-Quentin	1000","N","Aisne","Picardie"
+"Hyères	1000","N","Var","Provence-Alpes-Côte d'Azur"
+"Cayenne	1000","N","Guyane","Guyane"
+"Épinay-sur-Seine	1000","N","Seine-Saint-Denis","Île-de-France"
+"Saint-André	1000","N","La Réunion","La Réunion"
+"Beauvais	1000","N","Oise","Picardie"
+"Maisons-Alfort	1000","N","Val-de-Marne","Île-de-France"
+"Cholet	1000","N","Maine-et-Loire","Pays de la Loire"
+"Meaux	1000","N","Seine-et-Marne","Île-de-France"
+"Chelles	1000","N","Seine-et-Marne","Île-de-France"
+"Pantin	1000","N","Seine-Saint-Denis","Île-de-France"
+"Fontenay-sous-Bois	1000","N","Val-de-Marne","Île-de-France"
+"La Roche-sur-Yon	1000","N","Vendée","Pays de la Loire"
+"Bondy	1000","N","Seine-Saint-Denis","Île-de-France"
+"Vannes	1000","N","Morbihan","Bretagne"
+"Saint-Louis	1000","N","La Réunion","La Réunion"
+"Fréjus	1000","N","Var","Provence-Alpes-Côte d'Azur"
+"Arles	1000","N","Bouches-du-Rhône","Provence-Alpes-Côte d'Azur"
+"Clamart	1000","N","Hauts-de-Seine","Île-de-France"
+"Évry	1000","N","Essonne","Île-de-France"
+"Le Blanc-Mesnil	1000Blanc-Mesnil	1000","N","Seine-Saint-Denis","Île-de-France"
+"Narbonne	1000","N","Aude","Languedoc-Roussillon"
+"Sartrouville	1000","N","Yvelines","Île-de-France"
+"Grasse	1000","N","Alpes-Maritimes","Provence-Alpes-Côte d'Azur"
+"Annecy	1000","N","Haute-Savoie","Rhône-Alpes"
+"Laval	1000","N","Mayenne","Pays de la Loire"
+"Belfort	1000","N","Territoire de Belfort","Franche-Comté"
+"Vincennes	1000","N","Val-de-Marne","Île-de-France"
+"Charleville-Mézières	1000","N","Ardennes","Champagne-Ardenne"
+"Évreux	1000","N","Eure","Haute-Normandie"
+"Sevran	1000","N","Seine-Saint-Denis","Île-de-France"
+"Albi	1000","N","Tarn","Midi-Pyrénées"
+"Montrouge	1000","N","Hauts-de-Seine","Île-de-France"
+"Bobigny	1000","N","Seine-Saint-Denis","Île-de-France"
+"Martigues	1000","N","Bouches-du-Rhône","Provence-Alpes-Côte d'Azur"
+"Saint-Ouen	1000","N","Seine-Saint-Denis","Île-de-France"
+"Brive-la-Gaillarde	1000","N","Corrèze","Limousin"
+"Suresnes	1000","N","Hauts-de-Seine","Île-de-France"
+"Carcassonne	1000","N","Aude","Languedoc-Roussillon"
+"Cagnes-sur-Mer	1000","N","Alpes-Maritimes","Provence-Alpes-Côte d'Azur"
+"Corbeil-Essonnes	1000","N","Essonne","Île-de-France"
+"Saint-Brieuc	1000","N","Côtes-d'Armor","Bretagne"
+"Blois	1000","N","Loir-et-Cher","Centre-Val de Loire"
+"Bayonne	1000","N","Pyrénées-Atlantiques","Aquitaine"
+"Aubagne	1000","N","Bouches-du-Rhône","Provence-Alpes-Côte d'Azur"
+"Châlons-en-Champagne	1000","N","Marne","Champagne-Ardenne"
+"Meudon	1000","N","Hauts-de-Seine","Île-de-France"
+"Châteauroux	1000","N","Indre","Centre-Val de Loire"
+"Saint-Malo	1000","N","Ille-et-Vilaine","Bretagne"
+"Chalon-sur-Saône	1000","N","Saône-et-Loire","Bourgogne"
+"Sète	1000","N","Hérault","Languedoc-Roussillon"
+"Puteaux	1000","N","Hauts-de-Seine","Île-de-France"
+"Alfortville	1000","N","Val-de-Marne","Île-de-France"
+"Salon-de-Provence	1000","N","Bouches-du-Rhône","Provence-Alpes-Côte d'Azur"
+"Massy	1000","N","Essonne","Île-de-France"
+"Mantes-la-Jolie	1000","N","Yvelines","Île-de-France"
+"Bastia	1000","N","Haute-Corse","Corse"
+"Vaulx-en-Velin	1000","N","Rhône","Rhône-Alpes"
+"Saint-Herblain	1000","N","Loire-Atlantique","Pays de la Loire"
+"Le Cannet	1000Cannet	1000","N","Alpes-Maritimes","Provence-Alpes-Côte d'Azur"
+"Valenciennes	1000","N","Nord","Nord-Pas-de-Calais"
+"Istres	1000","N","Bouches-du-Rhône","Provence-Alpes-Côte d'Azur"
+"Gennevilliers	1000","N","Hauts-de-Seine","Île-de-France"
+"Boulogne-sur-Mer	1000","N","Pas-de-Calais","Nord-Pas-de-Calais"
+"Livry-Gargan	1000","N","Seine-Saint-Denis","Île-de-France"
+"Saint-Priest	1000","N","Rhône","Rhône-Alpes"
+"Rosny-sous-Bois	1000","N","Seine-Saint-Denis","Île-de-France"
+"Caluire-et-Cuire	1000","N","Rhône","Rhône-Alpes"
+"Angoulême	1000","N","Charente","Poitou-Charentes"
+"Douai	1000","N","Nord","Nord-Pas-de-Calais"
+"Tarbes	1000","N","Hautes-Pyrénées","Midi-Pyrénées"
+"Wattrelos	1000","N","Nord","Nord-Pas-de-Calais"
+"Castres	1000","N","Tarn","Midi-Pyrénées"
+"Choisy-le-Roi	1000","N","Val-de-Marne","Île-de-France"
+"Talence	1000","N","Gironde","Aquitaine"
+"Thionville	1000","N","Moselle","Lorraine"
+"Arras	1000","N","Pas-de-Calais","Nord-Pas-de-Calais"
+"Alès	1000","N","Gard","Languedoc-Roussillon"
+"Garges-lès-Gonesse	1000","N","Val-d'Oise","Île-de-France"
+"Gap	1000","N","Hautes-Alpes","Provence-Alpes-Côte d'Azur"
+"Saint-Laurent-du-Maroni	1000","N","Guyane","Guyane"
+"Melun	1000","N","Seine-et-Marne","Île-de-France"
+"Bourg-en-Bresse	1000","N","Ain","Rhône-Alpes"
+"Noisy-le-Sec	1000","N","Seine-Saint-Denis","Île-de-France"
+"Compiègne	1000","N","Oise","Picardie"
+"La Courneuve	1000","N","Seine-Saint-Denis","Île-de-France"
+"Le Lamentin	1000Lamentin	1000","N","Martinique","Martinique"
+"Marcq-en-Barœul	1000","N","Nord","Nord-Pas-de-Calais"
+"Saint-Germain-en-Laye	1000","N","Yvelines","Île-de-France"
+"Rezé	1000","N","Loire-Atlantique","Pays de la Loire"
+"Bron	1000","N","Rhône","Rhône-Alpes"
+"Anglet	1000","N","Pyrénées-Atlantiques","Aquitaine"
+"Gagny	1000","N","Seine-Saint-Denis","Île-de-France"
+"Chartres	1000","N","Eure-et-Loir","Centre-Val de Loire"
+"Bagneux	1000","N","Hauts-de-Seine","Île-de-France"
+"Saint-Martin-d'Hères	1000","N","Isère","Rhône-Alpes"
+"Montluçon	1000","N","Allier","Auvergne"
+"Pontault-Combault	1000","N","Seine-et-Marne","Île-de-France"
+"Poissy	1000","N","Yvelines","Île-de-France"
+"Draguignan	1000","N","Var","Provence-Alpes-Côte d'Azur"
+"Joué-lès-Tours	1000","N","Indre-et-Loire","Centre-Val de Loire"
+"Savigny-sur-Orge	1000","N","Essonne","Île-de-France"
+"Cherbourg-Octeville	1000","N","Manche","Basse-Normandie"
+"Saint-Joseph	1000","N","La Réunion","La Réunion"
+"Le Port	1000Port	1000","N","La Réunion","La Réunion"
+"Colomiers	1000","N","Haute-Garonne","Midi-Pyrénées"
+"Saint-Martin	1000","N","Saint-Martin est une COM autonome",""
+"Villefranche-sur-Saône	1000","N","Rhône","Rhône-Alpes"
+"Stains	1000","N","Seine-Saint-Denis","Île-de-France"
+"Saint-Benoît	1000","N","La Réunion","La Réunion"
+"Échirolles	1000","N","Isère","Rhône-Alpes"
+"Villepinte	1000","N","Seine-Saint-Denis","Île-de-France"
+"Roanne	1000","N","Loire","Rhône-Alpes"
+"Montélimar	1000","N","Drôme","Rhône-Alpes"
+"Saint-Chamond	1000","N","Loire","Rhône-Alpes"
+"Nevers	1000","N","Nièvre","Bourgogne"
+"Conflans-Sainte-Honorine	1000","N","Yvelines","Île-de-France"
+"Auxerre	1000","N","Yonne","Bourgogne"
+"Sainte-Geneviève-des-Bois	1000","N","Essonne","Île-de-France"
+"Châtillon	1000","N","Hauts-de-Seine","Île-de-France"
+"Bagnolet	1000","N","Seine-Saint-Denis","Île-de-France"
+"Vitrolles	1000","N","Bouches-du-Rhône","Provence-Alpes-Côte d'Azur"
+"Thonon-les-Bains	1000","N","Haute-Savoie","Rhône-Alpes"
+"Neuilly-sur-Marne	1000","N","Seine-Saint-Denis","Île-de-France"
+"Haguenau	1000","N","Bas-Rhin","Alsace"
+"Marignane	1000","N","Bouches-du-Rhône","Provence-Alpes-Côte d'Azur"
+"Saint-Raphaël	1000","N","Var","Provence-Alpes-Côte d'Azur"
+"Tremblay-en-France	1000","N","Seine-Saint-Denis","Île-de-France"
+"La Ciotat	1000","N","Bouches-du-Rhône","Provence-Alpes-Côte d'Azur"
+"Six-Fours-les-Plages	1000","N","Var","Provence-Alpes-Côte d'Azur"
+"Creil	1000","N","Oise","Picardie"
+"Agen	1000","N","Lot-et-Garonne","Aquitaine"
+"Romans-sur-Isère	1000","N","Drôme","Rhône-Alpes"
+"Montigny-le-Bretonneux	1000","N","Yvelines","Île-de-France"
+"Le Perreux-sur-Marne	1000Perreux-sur-Marne	1000","N","Val-de-Marne","Île-de-France"
+"Franconville	1000","N","Val-d'Oise","Île-de-France"
+"Annemasse	1000","N","Haute-Savoie","Rhône-Alpes"
+"Villeneuve-Saint-Georges	1000","N","Val-de-Marne","Île-de-France"
+"Saint-Leu	1000","N","La Réunion","La Réunion"
+"Mâcon	1000","N","Saône-et-Loire","Bourgogne"
+"Cambrai	1000","N","Nord","Nord-Pas-de-Calais"
+"Lens	1000","N","Pas-de-Calais","Nord-Pas-de-Calais"
+"Houilles	1000","N","Yvelines","Île-de-France"
+"Épinal	1000","N","Vosges","Lorraine"
+"Châtenay-Malabry	1000","N","Hauts-de-Seine","Île-de-France"
+"Schiltigheim	1000","N","Bas-Rhin","Alsace"
+"Sainte-Marie	1000","N","La Réunion","La Réunion"
+"Liévin	1000","N","Pas-de-Calais","Nord-Pas-de-Calais"
+"Châtellerault	1000","N","Vienne","Poitou-Charentes"
+"Meyzieu	1000","N","Rhône","Rhône-Alpes"
+"Goussainville	1000","N","Val-d'Oise","Île-de-France"
+"Viry-Châtillon	1000","N","Essonne","Île-de-France"
+"Dreux	1000","N","Eure-et-Loir","Centre-Val de Loire"
+"L'Haÿ-les-Roses	1000","N","Val-de-Marne","Île-de-France"
+"Plaisir	1000","N","Yvelines","Île-de-France"
+"Mont-de-Marsan	1000","N","Landes","Aquitaine"
+"Maubeuge	1000","N","Nord","Nord-Pas-de-Calais"
+"Nogent-sur-Marne	1000","N","Val-de-Marne","Île-de-France"
+"Les Mureaux	1000Mureaux	1000","N","Yvelines","Île-de-France"
+"Clichy-sous-Bois	1000","N","Seine-Saint-Denis","Île-de-France"
+"La Possession	1000","N","La Réunion","La Réunion"
+"Dieppe	1000","N","Seine-Maritime","Haute-Normandie"
+"Chatou	1000","N","Yvelines","Île-de-France"
+"Vandœuvre-lès-Nancy	1000","N","Meurthe-et-Moselle","Lorraine"
+"Malakoff	1000","N","Hauts-de-Seine","Île-de-France"
+"Palaiseau	1000","N","Essonne","Île-de-France"
+"Pontoise	1000","N","Val-d'Oise","Île-de-France"
+"Charenton-le-Pont	1000","N","Val-de-Marne","Île-de-France"
+"Rillieux-la-Pape	1000","N","Rhône","Rhône-Alpes"

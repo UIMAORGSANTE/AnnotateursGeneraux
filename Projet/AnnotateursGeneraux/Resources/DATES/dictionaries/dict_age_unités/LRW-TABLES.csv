@@ -1,0 +1,2 @@
+"TABLE_NAME","TABLE_TYPE","BUILD_TYPE","GLOSS","UIMA_TYPENAME","UIMA_TYPEDESC","UIMA_SUPERTYPE","DISPLAY_NAME","SORTBY"
+"DATA","SurfaceformList","","MidGloss","com.ibm.ICA.general.Dict_temps_unités","dict_temps_unités","uima.tt.DictionaryEntryAnnotation","dict_temps_unités","COL1,COL2,COL3"

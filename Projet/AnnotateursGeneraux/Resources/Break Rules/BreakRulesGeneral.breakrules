@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<breakrules version="1" advanced="false">
+<simple>
+<linesep action="MarkEOS"/>
+<tab action="MarkEOS"/>
+<multispace action="Nothing"/>
+<abbreviations action="Separate"/>
+<alphanum action="Separate"/>
+</simple>
+</breakrules>

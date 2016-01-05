@@ -1,0 +1,18 @@
+"COL1","COL2","COL3"
+"kilomètre	1100kilom	1000kilometre	1000kilometres	1000kilomètres	1100km	1000kms	1000","N","longueur"
+"litre	1100l	1000lit	1000litres	1100lt	1000","N","volume"
+"km/h	1000kilometre heure	1000kilometre-heure	1000kilometres heure	1000kilometres-heure	1000kilomètre heure	1000kilomètre-heure	1000kilomètres heure	1000kilomètres-heure	1000km.h	1000kmh	1000","N","vitesse"
+"chevaux	1000ch	1000chv	1000cv	1000","N","PRECISER"
+"l/100	1000l au cent	1000l/100km	1000litre o cent	1000litre/100	1000litres au cent	1000litres aux cents	1000litres/100	1000","N","consommation carburant"
+"année	1101an	1101années	1101ans	1101","N","temps"
+"jour	1100j	1000j.	1000jours	1100","N","temps"
+"mois	1000","N","temps"
+"heure	1101h	1000heures	1101","N","temps"
+"minute	1100min	1100minutes	1100mn	1000","N","temps"
+"seconde	1100sec	1000secondes	1100secs	1000","N","temps"
+"mètre	1000m	1000","N","longueur"
+"mol	1000","N","PRECISER"
+"milligramme	1100mg	1000mg.	1000milligrammes	1100","N","poids"
+"kilogramme	1100kg	1000kilogrammes	1100","N","poids"
+"ui	1000","N","PRECISER"
+"semaine	1100sem	1000sem.	1000semaines	1100","N","temps"

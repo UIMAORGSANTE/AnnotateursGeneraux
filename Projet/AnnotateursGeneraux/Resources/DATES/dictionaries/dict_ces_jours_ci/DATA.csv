@@ -1,0 +1,6 @@
+"COL1","COL2","COL3","COL4"
+"aujourd'hui	1000aujourdhui	1000","A",0,"aujourdhui"
+"demain	1000","A",1,"futur"
+"après-demain	1000apres demain	1000apres-demain	1000après demain	1000aprèsdemain	1000","A",2,"futur"
+"hier	1000","A",1,"passé"
+"avant-hier	1000avant hier	1000avanthier	1000","A",2,"passé"

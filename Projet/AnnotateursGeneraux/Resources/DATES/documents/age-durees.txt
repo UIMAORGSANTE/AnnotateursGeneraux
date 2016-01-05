@@ -1,0 +1,80 @@
++++ mesures de temps +++
++++ unités utilisées pour âge et durées dans l'historique médical +++
+3 décennies
+10 ans.
+10 ans 3 mois.
+10 ans et 3 mois.
+3 mois et demie.
+2 ans et demi.
+1 an et 1/2.
+3 mois et 10 jours.
+4 mois.
+7 semaines.
+1 semaine et demie.
+1 semaine et 10 jours
+10 jours.
+treize ans.
+
++++ autres unités +++
+2 siècles
+10 heures.
+22 minutes.
+10 heures 20 minutes et trente secondes.
+2 jours et 18 heures.
+
++++ temps flou +++
+quelques jours
+quelques semaines
+plusieurs mois
+quelques mois
+peu de temps
+très peu de temps
+quelques temps
+récemment
+2 à 3 ans
+2 ou 3 ans
+entre 2 et 3 ans
+
++++ dates +++
+septembre 2011
+2011
+entre 2011 et 2015
+
++++ âge +++
+depuis l'âge de 10 ans.
+dès l'âge de 10 ans 3 mois.
+depuis ses 10 ans.
+à l'âge de 10 ans. 
+à partir de l'âge de 10 ans.
+à 10 ans. 
+pour ses 10 ans.
+quand il a eu 10 ans.
+quand il avait 10 ans. 
+à l'adolescence
+à son adolescence
+dans sa petite enfance
+dans sa/la toute petite enfance
+dès son/le plus jeune âge
+dès l'enfance
+à la naissance
+dans sa jeunesse
+
++++ durée/position temporelle +++
+pendant 10 ans. 
+depuis 10 ans
+ça fait 10 ans. 
+cela fait 10 ans. 
+cela fait 3 semaines. 
+il y a 3 semaines.
+à partir de mars 2010.
+
++++ faux positifs +++
+il est devenu diabétique depuis ses 2 ans de service militaire
+
+
+A faire
+Déduire la date de début de la durée
+déduire la durée de la date de début
+par calcul hors annotations
+sortir caract. ponctuel (il a fait un AVC il y a 10 ans) ou durée (il y a 10 ans qu'il prend des bétabloquants)
+

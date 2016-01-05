@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typePriorities xmlns="http://uima.apache.org/resourceSpecifier">
+  <priorityLists>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>com.ibm.ICA.general.MontantMonetaire</type>
+      <type>com.ibm.lw.marker.MarkerMontantMonetaireOutputType</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.MarkerMontantMonetaireOutputType</type>
+      <type>com.ibm.ICA.general.DictCurrency</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.MarkerMontantMonetaireOutputType</type>
+      <type>com.ibm.ICA.general.ValeurNumériqueFin</type>
+    </priorityList>
+    
+  </priorityLists>
+</typePriorities>

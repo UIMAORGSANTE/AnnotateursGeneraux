@@ -1,0 +1,10 @@
+"COL1","COL2"
+"nord	1000","N"
+"sud	1000","N"
+"est	1000","N"
+"ouest	1000","N"
+"nord-est	1000N-E	1000N-E.	1000N.-E.	1000","N"
+"sud-est	1000S-E	1000S-E.	1000S.-E.	1000","N"
+"nord-ouest	1000N-O	1000N-O.	1000N.-O.	1000","N"
+"sud-ouest	1000S-O	1000S-O.	1000S.-O.	1000","N"
+"centre	1000","N"

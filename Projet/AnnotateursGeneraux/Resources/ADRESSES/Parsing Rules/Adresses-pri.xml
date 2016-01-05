@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typePriorities xmlns="http://uima.apache.org/resourceSpecifier">
+  <priorityLists>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>com.ibm.ICA.general.Adresse</type>
+      <type>com.ibm.lw.marker.MarkerAdressesOutputType</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>com.ibm.ICA.general.Adresse</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>uima.tcas.DocumentAnnotation</type>
+      <type>uima.tt.ParagraphAnnotation</type>
+      <type>uima.tt.SentenceAnnotation</type>
+      <type>com.ibm.lw.marker.MarkerAdressesOutputType</type>
+      <type>uima.tt.DictionaryEntryAnnotation</type>
+      <type>uima.tt.TokenAnnotation</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.MarkerAdressesOutputType</type>
+      <type>com.ibm.ICA.general.DictVoiesAdresses</type>
+    </priorityList>
+    <priorityList>
+      <type>com.ibm.lw.marker.MarkerAdressesOutputType</type>
+      <type>com.ibm.ICA.general.DictVillesFrance</type>
+    </priorityList>
+    
+  </priorityLists>
+</typePriorities>

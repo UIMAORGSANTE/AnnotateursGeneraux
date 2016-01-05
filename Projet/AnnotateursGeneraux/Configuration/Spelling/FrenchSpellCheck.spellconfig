@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="spell">
+	<item value="true" key="decomp"/>
+	<item value="" key="tcrPath"/>
+	<item value="2" key="guessingMode"/>
+	<item value="true" key="obeyRules"/>
+	<item value="true" key="decompCrossDictionary"/>
+	<item value="100" key="replySize"/>
+	<item value="false" key="extraRanking"/>
+	<item value="true" key="hyphenDecomp"/>
+	<item value="false" key="checkRepeatedWords"/>
+	<item value="spellconfig" key="name"/>
+	<item value="false" key="checkFirstWord"/>
+	<item value="" key="addenda"/>
+	<item value="fr-FR" key="language"/>
+	<item value="true" key="doWhiteSpaces"/>
+	<item value="false" key="caseStrict"/>
+	<list key="dictPaths">
+		<item value="${workspace_loc:/AnnotateursGénéraux/Configuration/Spelling}/francais.dic"/>
+		<item value="${workspace_loc:/Medical/Resources/Dictionaries}/DictExamens.dic"/>
+		<item value="${workspace_loc:/Medical/Resources/Dictionaries}/DictPathologiesSymptomes.dic"/>
+		<item value="${workspace_loc:/Medical/Resources/Dictionaries}/DictSpecialitesMedicales.dic"/>
+		<item value="${workspace_loc:/Medical/Resources/SNOMED/Dictionaries}/DictSNOMED_Test_AppLocoTissusMous.dic"/>
+		<item value="${workspace_loc:/Medical/Resources/SNOMED/Dictionaries}/DictSNOMED_Test_MorphoHorsCIMO.dic"/>
+		<item value="${workspace_loc:/Medical/Resources/SNOMED/Dictionaries}/DictSNOMED_TopoComplet.dic"/>
+	</list>
+</section>

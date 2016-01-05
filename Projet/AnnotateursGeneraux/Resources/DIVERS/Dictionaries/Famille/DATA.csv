@@ -1,0 +1,19 @@
+"COL1","COL2"
+"père	1100pere	1000peres	1000pères	1100","N"
+"mère	1100mere	1000meres	1000mères	1100","N"
+"oncle	1101oncles	1101","N"
+"frère	1100frere	1000freres	1000frères	1100","N"
+"soeur	1100soeurs	1100","N"
+"cousin	1100cousin germain	1000cousine	1100cousine germaine	1000cousines	1100cousines germaines	1000cousins	1100cousins germains	1000","N"
+"tante	1100tantes	1100","N"
+"fils	1100fille	1000filles	1000","N"
+"neveu	1100neveux	1100","N"
+"nièce	1100niece	1000nieces	1000nièces	1100","N"
+"grand-mère	1000gd mere	1000gd mère	1000gd-mere	1000gd-mère	1000grand mere	1000grand mère	1000grand-mere	1000grandmere	1000grandmère	1000","N"
+"grand-père	1000gd pere	1000gd père	1000gd-pere	1000gd-père	1000grand pere	1000grand père	1000grand-pere	1000grandpere	1000grandpère	1000","N"
+"maternel	1000maternelle	1000maternelles	1000maternels	1000","J"
+"paternel	1000paternelle	1000paternelles	1000paternels	1000","J"
+"fratrie	1100fatrie	1000fratries	1100","N"
+"enfant	1101enfants	1101","N"
+"arriere-petit-cousin	1000arriere petit cousin	1000","N"
+"filial	1000filiale	1000filiales	1000filiaux	1000","J"
